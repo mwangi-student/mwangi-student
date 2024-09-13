@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Backend Projects
 - 📫 How to reach me : Email to: wambuimwangibrian@gmail.com
-- ⚡ Fun fact: I love codding
+- ⚡ Fun fact: I love learning new things
 
 <!---
 mwangi-student/mwangi-student is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
